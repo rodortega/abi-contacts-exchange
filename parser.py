@@ -27,6 +27,7 @@ def parse_csv_to_json(csv_file):
 
             # Store equipment type and item requirements
             equipment_data[equipment_name][contact_name]["type"] = equipment_type
+            equipment_data[equipment_name][contact_name]["quantity"] = equipment_quantity
             equipment_data[equipment_name][contact_name]["requirements"].append({
                 "item": item_name,
                 "quantity": item_quantity
@@ -38,14 +39,14 @@ def parse_csv_to_json(csv_file):
         for contact, details in contacts.items():
             contacts_list.append({
                 "name": contact,
-                "quantity": equipment_quantity,  # Quantity for each contact
+                "quantity": details["quantity"],
                 "requirements": details["requirements"]
             })
 
         # Append equipment, type, and contacts to the output
         json_output.append({
             "equipment": equipment,
-            "type": details["type"],  # Add equipment type
+            "type": details["type"],
             "contacts": contacts_list
         })
 

@@ -85,7 +85,7 @@
         "contacts": [
             {
                 "name": "Joel",
-                "quantity": 1,
+                "quantity": 30,
                 "requirements": [
                     {
                         "item": "Enamel Cup",
@@ -105,7 +105,7 @@
         "contacts": [
             {
                 "name": "Joel",
-                "quantity": 1,
+                "quantity": 30,
                 "requirements": [
                     {
                         "item": "Light Bulb",
@@ -225,7 +225,7 @@
         "contacts": [
             {
                 "name": "Evita",
-                "quantity": 1,
+                "quantity": 3,
                 "requirements": [
                     {
                         "item": "Toothpaste",
@@ -245,7 +245,7 @@
         "contacts": [
             {
                 "name": "Evita",
-                "quantity": 1,
+                "quantity": 3,
                 "requirements": [
                     {
                         "item": "Toothpaste",
@@ -1269,7 +1269,7 @@
         "contacts": [
             {
                 "name": "Vladlen",
-                "quantity": 1,
+                "quantity": 30,
                 "requirements": [
                     {
                         "item": "Lighter",
@@ -1289,7 +1289,7 @@
         "contacts": [
             {
                 "name": "Vladlen",
-                "quantity": 1,
+                "quantity": 30,
                 "requirements": [
                     {
                         "item": "Blue Gunpowder",
@@ -1309,7 +1309,7 @@
         "contacts": [
             {
                 "name": "Vladlen",
-                "quantity": 1,
+                "quantity": 30,
                 "requirements": [
                     {
                         "item": "Magnet",
@@ -1885,7 +1885,7 @@
         "contacts": [
             {
                 "name": "Thomas Edward",
-                "quantity": 1,
+                "quantity": 30,
                 "requirements": [
                     {
                         "item": "Blue Gunpowder",
@@ -1905,7 +1905,7 @@
         "contacts": [
             {
                 "name": "Thomas Edward",
-                "quantity": 1,
+                "quantity": 30,
                 "requirements": [
                     {
                         "item": "Power Cord",
@@ -2441,7 +2441,7 @@
         "contacts": [
             {
                 "name": "Randall Fisher",
-                "quantity": 1,
+                "quantity": 30,
                 "requirements": [
                     {
                         "item": "Light Bulb",
@@ -2461,7 +2461,7 @@
         "contacts": [
             {
                 "name": "Randall Fisher",
-                "quantity": 1,
+                "quantity": 30,
                 "requirements": [
                     {
                         "item": "House",
