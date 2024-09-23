@@ -7,6 +7,20 @@ function App() {
     const [requirementInput, setRequirementInput] = useState("");
     const [results, setResults] = useState([]);
 
+    const handleKeyPressEquipment = (event) => {
+        setRequirementInput("");
+        if (event.key === "Enter") {
+          handleEquipmentSearch();
+        }
+      };
+
+    const handleKeyPressRequirement = (event) => {
+        setEquipmentInput("");
+        if (event.key === "Enter") {
+          handleRequirementSearch();
+        }
+      };
+
     // Search for equipment based on the item requirement
     const handleRequirementSearch = () => {
         const lowerInput = requirementInput.toLowerCase();
@@ -68,6 +82,7 @@ function App() {
                         value={equipmentInput}
                         onChange={(e) => setEquipmentInput(e.target.value)}
                         placeholder="Enter equipment (e.g., Ammo)"
+                        onKeyDown={handleKeyPressEquipment}
                         className="w-full p-3 border rounded mb-4 bg-gray-600 text-white"
                     />
                     <button
@@ -87,6 +102,7 @@ function App() {
                         type="text"
                         value={requirementInput}
                         onChange={(e) => setRequirementInput(e.target.value)}
+                        onKeyDown={handleKeyPressRequirement}
                         placeholder="Enter item (e.g., battery)"
                         className="w-full p-3 border rounded mb-4 bg-gray-600 text-white"
                     />
@@ -110,7 +126,7 @@ function App() {
                             <h3 className="text-xl font-bold text-black text-white">
                                 {result.equipment}
                             </h3>
-                            <div className="mt-4 grid grid-cols-1 lg:grid-cols-2 gap-6">
+                            <div className="mt-4 grid grid-cols-1 gap-6">
                                 {result.contacts.map((contact, idx) => (
                                     <div key={idx} className="p-4 rounded-lg text-white">
                                         <p className="font-semibold">
