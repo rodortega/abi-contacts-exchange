@@ -10,16 +10,16 @@ function App() {
     const handleKeyPressEquipment = (event) => {
         setRequirementInput("");
         if (event.key === "Enter") {
-          handleEquipmentSearch();
+            handleEquipmentSearch();
         }
-      };
+    };
 
     const handleKeyPressRequirement = (event) => {
         setEquipmentInput("");
         if (event.key === "Enter") {
-          handleRequirementSearch();
+            handleRequirementSearch();
         }
-      };
+    };
 
     // Search for equipment based on the item requirement
     const handleRequirementSearch = () => {
@@ -55,7 +55,9 @@ function App() {
         const result = master
             .filter(
                 (equipmentItem) =>
-                    equipmentItem.equipment.toLowerCase().includes(lowerInput) ||
+                    equipmentItem.equipment
+                        .toLowerCase()
+                        .includes(lowerInput) ||
                     equipmentItem.type.toLowerCase().includes(lowerInput)
             )
             .map((equipmentItem) => ({
@@ -68,9 +70,7 @@ function App() {
     };
 
     return (
-        <div
-            className={`min-h-screen bg-gray-800 text-white py-10`}
-        >
+        <div className={`min-h-screen bg-gray-800 text-white py-10`}>
             <h1 className="text-3xl font-bold text-center mb-8">
                 Equipment & Item Search
             </h1>
@@ -130,15 +130,16 @@ function App() {
                             <h3 className="text-xl font-bold text-black text-white mb-1">
                                 {result.equipment}
                             </h3>
-                            <span
-                                className="px-2 py-1 rounded-lg text-xs font-semibold text-white bg-orange-800"
-                            >
+                            <span className="px-2 py-1 rounded-lg text-xs font-semibold text-white bg-orange-800">
                                 {result.type}
                             </span>
 
                             <div className="mt-4 grid grid-cols-1 gap-6">
                                 {result.contacts.map((contact, idx) => (
-                                    <div key={idx} className="rounded-lg text-white">
+                                    <div
+                                        key={idx}
+                                        className="rounded-lg text-white"
+                                    >
                                         <p className="font-semibold">
                                             Contact: {contact.name}
                                         </p>
@@ -156,7 +157,10 @@ function App() {
                                                             key={reqIdx}
                                                             className="text-white list-none mb-2"
                                                         >
-                                                            <b>{req.quantity} </b> x {req.item}
+                                                            <b>
+                                                                {req.quantity}{" "}
+                                                            </b>{" "}
+                                                            x {req.item}
                                                         </li>
                                                     )
                                                 )}
