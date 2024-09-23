@@ -1,0 +1,298 @@
+#,Get,Type,Qty,Give,Qty,Give + Qty,Rarity,Contact
+1,T85 Standard,Micro SMG,1,Cotton Cloth,1,Cotton Cloth x1,1,Joel
+1,T85 Standard,Micro SMG,1,Safety Cloth,1,Safety Cloth x1,1,Joel
+2,MAC-10 Standard,Micro SMG,1,Battery,3,Battery x3,1,Joel
+2,MAC-10 Standard,Micro SMG,1,Classic Radio,2,Classic Radio x2,1,Joel
+3,S12K Standard,Shotgun,1,ES Lamp,3,ES Lamp x3,1,Joel
+3,S12K Standard,Shotgun,1,Military Compass,4,Military Compass x4,1,Joel
+4,T951,Assault Rifle,1,Working LCD,1,Working LCD x1,2,Joel
+4,T951,Assault Rifle,1,Silver Chain,2,Silver Chain x2,2,Joel
+5,.45 Caliber AP Ammo,Ammo L3,30,Enamel Cup,3,Enamel Cup x3,3,Joel
+5,.45 Caliber AP Ammo,Ammo L3,30,Shaver,3,Shaver x3,3,Joel
+6,5.8x42mm DBP87 Ammo,Ammo L3,30,Light Bulb,2,Light Bulb x2,3,Joel
+6,5.8x42mm DBP87 Ammo,Ammo L3,30,Disinfectant,2,Disinfectant x2,3,Joel
+7,Simple Red Dot Sight,Attachment,1,Playing Card,2,Playing Card x2,1,Joel
+7,Simple Red Dot Sight,Attachment,1,Kamona Bird Plush,2,Kamona Bird Plush x2,2,Joel
+8,MP-133 710mm Barrel,Attachment,1,Soap,2,Soap x2,1,Joel
+8,MP-133 710mm Barrel,Attachment,1,Enamel Cup,2,Enamel Cup x2,1,Joel
+9,926 Rapid First Aid Kit,Medkit,1,Soap,2,Soap x2,1,Evita
+9,926 Rapid First Aid Kit,Medkit,1,NaCL,2,NaCL x2,1,Evita
+10,E3 Military Medkit,Medkit,1,Medical Sponge,2,Medical Sponge x2,1,Evita
+10,E3 Military Medkit,Medkit,1,H202,1,H202 x1,1,Evita
+11,100D Battlefield Medkit,Medkit,1,Toothpaste,5,Toothpaste x5,1,Evita
+11,100D Battlefield Medkit,Medkit,1,Syringe,1,Syringe x1,1,Evita
+12,Energy Drink,Medicine,3,Toothpaste,2,Toothpaste x2,1,Evita
+12,Energy Drink,Medicine,3,NaCL,1,NaCL x1,1,Evita
+13,Liquid Painkiller,Medicine,3,Toothpaste,2,Toothpaste x2,1,Evita
+13,Liquid Painkiller,Medicine,3,Medical Sponge,1,Medical Sponge x1,1,Evita
+14,Fast-acting Painkiller,Medicine,1,Urea,1,Urea x1,1,Evita
+14,Fast-acting Painkiller,Medicine,1,BP Machine,1,BP Machine x1,1,Evita
+15,AP Painkiller,Medicine,1,Medical Sponge,5,Medical Sponge x5,1,Evita
+15,AP Painkiller,Medicine,1,UV Lamp,1,UV Lamp x1,1,Evita
+16,Standard Military Surgical Kit,Treatment,1,Syringe,2,Syringe x2,1,Evita
+16,Standard Military Surgical Kit,Treatment,1,Medical Scissors,1,Medical Scissors x1,1,Evita
+17,Endurance Injection,Stimulants,1,Soap,2,Soap x2,1,Evita
+17,Endurance Injection,Stimulants,1,H202,1,H202 x1,1,Evita
+18,Str. Injection,Stimulants,1,Syringe,1,Syringe x1,1,Evita
+18,Str. Injection,Stimulants,1,Toothpaste,1,Toothpaste x1,1,Evita
+19,Regen Injection,Stimulants,1,Bleach,2,Bleach x2,1,Evita
+19,Regen Injection,Stimulants,1,Glucose Injection,1,Glucose Injection x1,1,Evita
+20,House Key,The Farm Keys,1,Lighter,4,Lighter x4,1,Evita
+20,House Key,The Farm Keys,1,Metal Lighter,4,Metal Lighter x4,1,Evita
+20,House Key,The Farm Keys,1,Awl,3,Awl x3,1,Evita
+21,Blue Gunpowder,Flammables,1,Soap,2,Soap x2,1,Evita
+21,Blue Gunpowder,Flammables,1,Toothpaste,1,Toothpaste x1,1,Evita
+21,Blue Gunpowder,Flammables,1,Clog Remover,1,Clog Remover x1,1,Evita
+22,Green Gunpowder,Flammables,1,Blue Gunpowder,2,Blue Gunpowder x2,1,Evita
+23,Glucose Injection,Medical Items,1,Standard First Aid Kit,2,Standard First Aid Kit x2,1,Evita
+23,Glucose Injection,Medical Items,1,NaCL,1,NaCL x1,1,Evita
+23,Glucose Injection,Medical Items,1,H202,1,H202 x1,1,Evita
+24,Medical Item Case,Medical Items,1,Medical Sponge,2,Medical Sponge x2,1,Evita
+24,Medical Item Case,Medical Items,1,Medical Scissors,1,Medical Scissors x1,1,Evita
+25,Toolkit,Tools,1,Screwdriver,2,Screwdriver x2,1,Evita
+25,Toolkit,Tools,1,Pliers,2,Pliers x2,1,Evita
+25,Toolkit,Tools,1,Shears,2,Shears x2,1,Evita
+25,Toolkit,Tools,1,MP Tools,1,MP Tools x1,1,Evita
+26,Mobile Phone,Electronics,1,MP Tools,1,MP Tools x1,1,Evita
+26,Mobile Phone,Electronics,1,Broken Phone,1,Broken Phone x1,1,Evita
+26,Mobile Phone,Electronics,1,Phone Battery,1,Phone Battery x1,1,Evita
+27,Red Gunpowder,Flammables,1,Green Gunpowder,2,Green Gunpowder x2,1,Evita
+28,Drug Nebulizer,Medical Items,1,Glucose Injection,1,Glucose Injection x1,1,Evita
+28,Drug Nebulizer,Medical Items,1,Medical Sponge,2,Medical Sponge x2,1,Evita
+28,Drug Nebulizer,Medical Items,1,NaCL,2,NaCL x2,1,Evita
+29,Propane Tank,Flammables,1,Kerosene Lamp,1,Kerosene Lamp x1,1,Evita
+29,Propane Tank,Flammables,1,Filter Canister,2,Filter Canister x2,1,Evita
+29,Propane Tank,Flammables,1,Pressure Gauge,1,Pressure Gauge x1,1,Evita
+30,Thermometer,Medical Items,1,Syringe,1,Syringe x1,1,Evita
+30,Thermometer,Medical Items,1,Medical Item Case,2,Medical Item Case x2,1,Evita
+30,Thermometer,Medical Items,1,Disinfectant,2,Disinfectant x2,1,Evita
+31,Working LCD,Computer Parts,1,Broken LCD,2,Broken LCD x2,1,Evita
+31,Working LCD,Computer Parts,1,Security Camera,2,Security Camera x2,1,Evita
+32,Fuel Tank,Flammables,1,Oil Drum,2,Oil Drum x2,2,Evita
+32,Fuel Tank,Flammables,1,Electric Drill,1,Electric Drill x1,2,Evita
+33,Titanium Alloy Plate,Building Materials,1,Propane Tank,1,Propane Tank x1,2,Evita
+33,Titanium Alloy Plate,Building Materials,1,Steel Pipe,2,Steel Pipe x2,2,Evita
+34,SH18 Military Helmet,Helmet L4,1,DVD,2,DVD x2,1,Deke
+34,SH18 Military Helmet,Helmet L4,1,Fuse,3,Fuse x3,1,Deke
+35,SH40 Military Helmet,Helmet L4,1,Capacitors,3,Capacitors x3,1,Deke
+35,SH40 Military Helmet,Helmet L4,1,Mobile Phone,2,Mobile Phone x2,1,Deke
+36,H-Tac SWAT Body Armor,Body Armor L3,1,WPR Tape,2,WPR Tape x2,1,Deke
+36,H-Tac SWAT Body Armor,Body Armor L3,1,T-Shaped Plug,2,T-Shaped Plug x2,1,Deke
+36,H-Tac SWAT Body Armor,Body Armor L3,1,D-size Battery,2,D-size Battery x2,1,Deke
+37,6B13 Body Armor,Body Armor L4,1,Tweed,2,Tweed x2,1,Deke
+37,6B13 Body Armor,Body Armor L4,1,Camping Stove,1,Camping Stove x1,2,Deke
+38,926 Composite Body Armor,Body Armor L5,1,Antenna,1,Antenna x1,3,Deke
+38,926 Composite Body Armor,Body Armor L5,1,Semiconductor Chip,2,Semiconductor Chip x2,1,Deke
+39,RAP Simple Chest Rig,Unarmored Chest Rig,1,Pliers,1,Pliers x1,1,Deke
+39,RAP Simple Chest Rig,Unarmored Chest Rig,1,Document,1,Document x1,1,Deke
+40,B4 Tactical Chest Rig,Unarmored Chest Rig,1,Broken LCD,2,Broken LCD x2,1,Deke
+40,B4 Tactical Chest Rig,Unarmored Chest Rig,1,ES Lamp,1,ES Lamp x1,1,Deke
+41,Sports Backpack,Backpack,1,Clog Remover,2,Clog Remover x2,1,Deke
+41,Sports Backpack,Backpack,1,Disinfectant,2,Disinfectant x2,1,Deke
+42,Canvas Camping Backpack,Backpack,1,Bolts,3,Bolts x3,1,Deke
+42,Canvas Camping Backpack,Backpack,1,Plexiglass,2,Plexiglass x2,1,Deke
+43,Outdoor Travel Backpack,Backpack,1,Surface Cleaner,3,Surface Cleaner x3,1,Deke
+43,Outdoor Travel Backpack,Backpack,1,Linen,3,Linen x3,1,Deke
+44,Rush Tactical Backpack,Backpack,1,Rubber Pad,1,Rubber Pad x1,1,Deke
+44,Rush Tactical Backpack,Backpack,1,BP Machine,2,BP Machine x2,1,Deke
+45,Cowhide Backpack,Backpack,1,Lighter,3,Lighter x3,1,Deke
+45,Cowhide Backpack,Backpack,1,Classic Radio,2,Classic Radio x2,1,Deke
+46,Large Camping Backpack,Backpack,1,Stamp,2,Stamp x2,1,Deke
+46,Large Camping Backpack,Backpack,1,Powerbank,2,Powerbank x2,1,Deke
+47,Med Field Backpack,Backpack,1,Pipe Wrench,3,Pipe Wrench x3,1,Deke
+47,Med Field Backpack,Backpack,1,Document,2,Document x2,1,Deke
+48,Retro Marchin Backpack,Backpack,1,Wind-up Car,1,Wind-up Car x1,2,Deke
+48,Retro Marchin Backpack,Backpack,1,Paracord,1,Paracord x1,2,Deke
+49,Chapman Military Backpack,Backpack,1,Military Canteen,3,Military Canteen x3,1,Deke
+49,Chapman Military Backpack,Backpack,1,Rangefinder Binoculars,1,Rangefinder Binoculars x1,2,Deke
+50,XA4 Tactical Backpack,Backpack,1,Battery,4,Battery x4,1,Deke
+50,XA4 Tactical Backpack,Backpack,1,Bag of Fertilizer,1,Bag of Fertilizer x1,2,Deke
+51,AMP7 Assault Backpack,Backpack,1,Oil Drum,1,Oil Drum x1,2,Deke
+51,AMP7 Assault Backpack,Backpack,1,Bag of Cement,1,Bag of Cement x1,2,Deke
+51,AMP7 Assault Backpack,Backpack,1,Disinfectant,1,Disinfectant x1,1,Deke
+52,Mosin-Nagant Standard,Bolt-Action Rifle,1,Bolts,6,Bolts x6,1,Vladlen
+52,Mosin-Nagant Standard,Bolt-Action Rifle,1,Paracord,2,Paracord x2,2,Vladlen
+53,AKM Standard,Assault Rifle,1,Glue,3,Glue x3,1,Vladlen
+53,AKM Standard,Assault Rifle,1,Broken Phone,3,Broken Phone x3,1,Vladlen
+54,AK-102 Standard,Assault Rifle,1,Silicone Tube,3,Silicone Tube x3,1,Vladlen
+54,AK-102 Standard,Assault Rifle,1,Broken LCD,4,Broken LCD x4,1,Vladlen
+54,AK-102 Standard,Assault Rifle,1,Magnet,2,Magnet x2,1,Vladlen
+55,AK-74N Standard,Assault Rifle,1,Silicone Tube,2,Silicone Tube x2,1,Vladlen
+55,AK-74N Standard,Assault Rifle,1,Urea,3,Urea x3,1,Vladlen
+55,AK-74N Standard,Assault Rifle,1,Shampoo,3,Shampoo x3,1,Vladlen
+56,ACE31 Standard,Assault Rifle,1,Handheld Fill Light,1,Handheld Fill Light x1,2,Vladlen
+56,ACE31 Standard,Assault Rifle,1,Oil Bottle,2,Oil Bottle x2,2,Vladlen
+57,SVDS Standard,Marksman Rifle,1,Propane Tank,2,Propane Tank x2,2,Vladlen
+57,SVDS Standard,Marksman Rifle,1,GPU,2,GPU x2,2,Vladlen
+58,VSS Standard,Marksman Rifle,1,Electric Drill,3,Electric Drill x3,2,Vladlen
+58,VSS Standard,Marksman Rifle,1,Camera,1,Camera x1,2,Vladlen
+59,RPK-16 Standard,Light Machine Gun,1,Spark Plug,4,Spark Plug x4,1,Vladlen
+59,RPK-16 Standard,Light Machine Gun,1,Camping Stove,4,Camping Stove x4,2,Vladlen
+60,AEK Standard,Assault Rifle,1,Sound-Muffling Cotton,1,Sound-Muffling Cotton x1,3,Vladlen
+60,AEK Standard,Assault Rifle,1,Floppy Drive,3,Floppy Drive x3,1,Vladlen
+61,AKM Series 50-Round Compatible Drum,Magazine,1,Playing Card,3,Playing Card x3,1,Vladlen
+61,AKM Series 50-Round Compatible Drum,Magazine,1,Document,1,Document x1,1,Vladlen
+62,7.62x39mm PS Ammo,Ammo L3,30,Lighter,3,Lighter x3,1,Vladlen
+62,7.62x39mm PS Ammo,Ammo L3,30,Rectifier,1,Rectifier x1,1,Vladlen
+63,5.45x39mm PP Ammo,Ammo L3,30,Blue Gunpowder,1,Blue Gunpowder x1,1,Vladlen
+63,5.45x39mm PP Ammo,Ammo L3,30,Power Cord,2,Power Cord x2,1,Vladlen
+64,7.62x54mm T46M,Ammo L3,30,Magnet,2,Magnet x2,1,Vladlen
+64,7.62x54mm T46M,Ammo L3,30,CPU Fan,1,CPU Fan x1,1,Vladlen
+65,Mosin Bolt-Action Rifle Suppressor,Muzzle,1,Static Tape,3,Static Tape x3,1,Vladlen
+65,Mosin Bolt-Action Rifle Suppressor,Muzzle,1,Watch,1,Watch x1,2,Vladlen
+66,46 Multi-Caliber Suppressor,Muzzle,1,Playing Card,2,Playing Card x2,1,Vladlen
+66,46 Multi-Caliber Suppressor,Muzzle,1,Broken Phone,2,Broken Phone x2,1,Vladlen
+67,AKM Precision Flash Suppressor,Muzzle,1,Power Cord,2,Power Cord x2,1,Vladlen
+67,AKM Precision Flash Suppressor,Muzzle,1,Cable,2,Cable x2,1,Vladlen
+68,AK Series FAB Buttstock,Stock,1,Canteen,3,Canteen x3,1,Vladlen
+68,AK Series FAB Buttstock,Stock,1,ES Lamp,1,ES Lamp x1,1,Vladlen
+69,Type 81 Stock,Stock,1,Screwdriver,2,Screwdriver x2,1,Vladlen
+69,Type 81 Stock,Stock,1,Classic Radio,3,Classic Radio x3,1,Vladlen
+70,Mosin Sight Extension Rail,Rail,1,Metal Lighter,1,Metal Lighter x1,1,Vladlen
+70,Mosin Sight Extension Rail,Rail,1,Battery,1,Battery x1,1,Vladlen
+71,AK-Series CAA Polymer Front Handguard,Handguard,1,Nut,1,Nut x1,1,Vladlen
+71,AK-Series CAA Polymer Front Handguard,Handguard,1,Receiver,1,Receiver x1,1,Vladlen
+72,AK Quick-mod Handguard,Handguard,1,Green Gunpowder,1,Green Gunpowder x1,1,Vladlen
+72,AK Quick-mod Handguard,Handguard,1,Medical Item Case,2,Medical Item Case x2,1,Vladlen
+73,AK Custom Rail Dust Cover,Receiver,1,Power Cord,2,Power Cord x2,1,Vladlen
+73,AK Custom Rail Dust Cover,Receiver,1,Tape,1,Tape x1,1,Vladlen
+74,AK Compatible Rail In-Line Dust Cover,Receiver,1,Lighter,2,Lighter x2,1,Vladlen
+74,AK Compatible Rail In-LIne Dust Cover,Receiver,1,Enamel Cup,1,Enamel Cup x1,1,Vladlen
+75,MP5 Standard,Micro SMG,1,Weapon Parts,3,Weapon Parts x3,1,Thomas Edward
+75,MP5 Standard,Micro SMG,1,Screwdriver,1,Screwdriver x1,1,Thomas Edward
+76,Mini14 Standard,Carbine,1,Flashlight,1,Flashlight x1,1,Thomas Edward
+76,Mini14 Standard,Carbine,1,Canteen,2,Canteen x2,1,Thomas Edward
+77,M16 Standard,Carbine,1,Gimbal,1,Gimbal x1,2,Thomas Edward
+77,M16 Standard,Carbine,1,Shutter Cable,3,Shutter Cable x3,1,Thomas Edward
+78,G18C Standard,Pistol,1,Silver Badge,2,Silver Badge x2,1,Thomas Edward
+78,G18C Standard,Pistol,1,Paracord,2,Paracord x2,2,Thomas Edward
+79,MP9 Standard,Micro SMG,1,Powerbank,3,Powerbank x3,1,Thomas Edward
+79,MP9 Standard,Micro SMG,1,Blower,1,Blower x1,2,Thomas Edward
+80,M4A1 Standard,Assault Rifle,1,Impact-Resistant Hard Rubber,3,Impact-Resistant Hard Rubber x3,2,Thomas Edward
+80,M4A1 Standard,Assault Rifle,1,Cassette Walkman,1,Cassette Walkman x1,1,Thomas Edward
+81,SCAR-L Standard,Assault Rifle,1,Gold-rimmed Glasses,1,Gold-rimmed Glasses x1,2,Thomas Edward
+81,SCAR-L Standard,Assault Rifle,1,SSD,1,SSD x1,2,Thomas Edward
+82,MPX Standard,Micro SMG,1,Toolkit,3,Toolkit x3,2,Thomas Edward
+82,MPX Standard,Micro SMG,1,Hardcover,1,Hardcover x1,1,Thomas Edward
+83,SJ16,Bolt-Action Rifle,1,Bulletproof Gel,3,Bulletproof Gel x3,2,Thomas Edward
+83,SJ16,Bolt-Action Rifle,1,PSU,5,PSU x5,2,Thomas Edward
+84,Desert Eagle Pistol Standard,Pistol,1,Tape,3,Tape x3,1,Thomas Edward
+84,Desert Eagle Pistol Standard,Pistol,1,WPR Tape,4,WPR Tape x4,1,Thomas Edward
+84,Desert Eagle Pistol Standard,Pistol,1,Pencil Sharpener,3,Pencil Sharpener x3,1,Thomas Edward
+85,F2000,Assault Rifle,1,PSU,3,PSU x3,2,Thomas Edward
+85,F2000,Assault Rifle,1,Floppy Disk,3,Floppy Disk x3,1,Thomas Edward
+85,F2000,Assault Rifle,1,Multimeter,4,Multimeter x4,1,Thomas Edward
+86,MP5 50-Round Magazine,Magazine,1,Powerbank,3,Powerbank x3,1,Thomas Edward
+87,MPX 41-Round Extended Magazine,Magazine,1,Bolts,1,Bolts x1,1,Thomas Edward
+87,MPX 41-Round Extended Magazine,Magazine,1,Notebook,2,Notebook x2,1,Thomas Edward
+88,MPX 50-Round Polymer Drum,Magazine,1,Camping Lantern,1,Camping Lantern x1,1,Thomas Edward
+88,MPX 50-Round Polymer Drum,Magazine,1,DVD,2,DVD x2,1,Thomas Edward
+89,SJ16 5-Round Magazine,Magazine,1,T-Shaped Plug,2,T-Shaped Plug x2,1,Thomas Edward
+89,SJ16 5-Round Magazine,Magazine,1,Pipe Wrench,3,Pipe Wrench x3,1,Thomas Edward
+90,Universal AR 60-Round Polymer Drum,Magazine,1,Commemorative Coin,1,Commemorative Coin x1,2,Thomas Edward
+90,Universal AR 60-Round Polymer Drum,Magazine,1,Toolkit,1,Toolkit x1,2,Thomas Edward
+91,G Series Pistol 33-Round Extended Mag,Magazine,1,Bleach,2,Bleach x2,1,Thomas Edward
+91,G Series Pistol 33-Round Extended Mag,Magazine,1,Circuit Board,1,Circuit Board x1,1,Thomas Edward
+92,5.56x45mm M855 Ammo,Ammo L3,30,Blue Gunpowder,2,Blue Gunpowder x2,1,Thomas Edward
+92,5.56x45mm M855 Ammo,Ammo L3,30,Bolts,4,Bolts x4,1,Thomas Edward
+93,9x1mm AP6.3 Ammo,Ammo L3,30,Power Cord,2,Power Cord x2,1,Thomas Edward
+93,9x1mm AP6.3 Ammo,Ammo L3,30,Brass Pipe,2,Brass Pipe x2,1,Thomas Edward
+94,3.5x Scope,Sights,1,Rangefinder Binoculars,3,Rangefinder Binoculars x3,2,Thomas Edward
+94,3.5x Scope,Sights,1,Pliers,1,Pliers x1,1,Thomas Edward
+95,5.56x45 Suppressor,Muzzle,1,Game Cartridge,2,Game Cartridge x2,2,Thomas Edward
+95,5.56x45 Suppressor,Muzzle,1,Rust Remover,1,Rust Remover x1,1,Thomas Edward
+96,MP5 Tactical Stock,Stock,1,Notebook,3,Notebook x3,1,Thomas Edward
+96,MP5 Tactical Stock,Stock,1,Photo Frame,1,Photo Frame x1,1,Thomas Edward
+97,AR Recoil Buffer,Stock,1,High Power Flashlight,2,High Power Flashlight x2,1,Thomas Edward
+97,AR Recoil Buffer,Stock,1,Filter Canister,2,Filter Canister x2,1,Thomas Edward
+98,"2.5"" Modular Lock Rail",Rail,1,Nut,2,Nut x2,1,Thomas Edward
+98,"2.5"" Modular Lock Rail",Rail,1,Tape,2,Tape x2,1,Thomas Edward
+99,"2"" Modular Lock Rail",Rail,1,Awl,2,Awl x2,1,Thomas Edward
+99,"2"" Modular Lock Rail",Rail,1,Toothpaste,2,Toothpaste x2,1,Thomas Edward
+100,"4.1"" Modular Lock Rail",Rail,1,Metal Lighter,2,Metal Lighter x2,1,Thomas Edward
+101,AR Special Universal Handguard,Handguard,1,MP Tools,2,MP Tools x2,1,Thomas Edward
+101,AR Special Universal Handguard,Handguard,1,Signal Jammer,2,Signal Jammer x2,1,Thomas Edward
+102,AR-series Carbine Handguard,Handguard,1,Pliers,2,Pliers x2,1,Thomas Edward
+102,AR-series Carbine Handguard,Handguard,1,Security Camera,3,Security Camera x3,1,Thomas Edward
+103,MP5SD Polymer Handguard,Handguard,1,Awl,1,Awl x1,1,Thomas Edward
+103,MP5SD Polymer Handguard,Handguard,1,Gas Analyzer,1,Gas Analyzer x1,2,Thomas Edward
+104,"MPX 10.5"" Modular Locking Handguard",Handguard,1,Writing Pad,2,Writing Pad x2,1,Thomas Edward
+104,"MPX 10.5"" Modular Locking Handguard",Handguard,1,Signal Jammer,2,Signal Jammer x2,1,Thomas Edward
+105,"MPX 14"" Modular Locking Handguard",Handguard,1,Canteen,3,Canteen x3,1,Thomas Edward
+105,"MPX 14"" Modular Locking Handguard",Handguard,1,Pocket Watch,1,Pocket Watch x1,2,Thomas Edward
+106,MP5 High-Performance SD Upper Receiver,Receiver,1,Notebook,3,Notebook x3,1,Thomas Edward
+106,MP5 High-Performance SD Upper Receiver,Receiver,1,Fuse,2,Fuse x2,1,Thomas Edward
+107,MPX Standard Barrel,Barrel,1,H202,2,H202 x2,1,Thomas Edward
+107,MPX Standard Barrel,Barrel,1,BP Machine,2,BP Machine x2,1,Thomas Edward
+108,MPX Extended Barrel,Barrel,1,Cable,2,Cable x2,1,Thomas Edward
+108,MPX Extended Barrel,Barrel,1,Wind-up Car,1,Wind-up Car x1,2,Thomas Edward
+109,BM59,Carbine,1,Power Cable,1,Power Cable x1,1,Randall Fisher
+109,BM59,Carbine,1,High Power Flashlight,1,High Power Flashlight x1,1,Randall Fisher
+110,M14 Standard,Carbine,1,Nut,4,Nut x4,1,Randall Fisher
+110,M14 Standard,Carbine,1,Receiver,2,Receiver x2,1,Randall Fisher
+111,FAL Standard,Assault Rifle,1,Gold-rimmed Glasses,2,Gold-rimmed Glasses x2,2,Randall Fisher
+111,FAL Standard,Assault Rifle,1,Document,2,Document x2,1,Randall Fisher
+112,M110 Standard,Marksman Rifle,1,Bag of Cement,2,Bag of Cement x2,2,Randall Fisher
+112,M110 Standard,Marksman Rifle,1,Air Tightness Tester,3,Air Tightness Tester x3,2,Randall Fisher
+113,M24 Standard,Bolt-Action Rifle,1,Retro Heat Sink,3,Retro Heat Sink x3,1,Randall Fisher
+113,M24 Standard,Bolt-Action Rifle,1,Pipe Cleaning Kit,1,Pipe Cleaning Kit x1,2,Randall Fisher
+114,P90 Standard,Micro SMG,1,Titanium Alloy Plate,1,Titanium Alloy Plate x1,3,Randall Fisher
+114,P90 Standard,Micro SMG,1,Mobile Phone,3,Mobile Phone x3,1,Randall Fisher
+115,AR57,Assault Rifle,1,Oil Drum,3,Oil Drum x3,2,Randall Fisher
+115,AR57,Assault Rifle,1,Hearing Aid,1,Hearing Aid x1,2,Randall Fisher
+116,BM59 10-round Magazine,Magazine,1,Candle,1,Candle x1,1,Randall Fisher
+116,BM59 10-round Magazine,Magazine,1,Measuring Tape,1,Measuring Tape x1,1,Randall Fisher
+117,M110 20-rounnd Quick Magazine,Magazine,1,Shears,2,Shears x2,1,Randall Fisher
+117,M110 20-rounnd Quick Magazine,Magazine,1,Linen,1,Linen x1,1,Randall Fisher
+118,P90 30-round Polymer Magazine,Magazine,1,Shears,2,Shears x2,1,Randall Fisher
+118,P90 30-round Polymer Magazine,Magazine,1,BP Machine,1,BP Machine x1,1,Randall Fisher
+119,FAL 50-round Drum,Magazine,1,Candle,2,Candle x2,1,Randall Fisher
+119,FAL 50-round Drum,Magazine,1,Kamona Bird Plush,2,Kamona Bird Plush x2,2,Randall Fisher
+120,7.62x51mm BPZ Ammo,Ammo L3,30,Light Bulb,3,Light Bulb x3,1,Randall Fisher
+120,7.62x51mm BPZ Ammo,Ammo L3,30,Rectifier,2,Rectifier x2,1,Randall Fisher
+121,5.7x28mm SS197SR Ammo,Ammo L2,30,House,2,House x2,1,Randall Fisher
+121,5.7x28mm SS197SR Ammo,Ammo L2,30,Stamp,1,Stamp x1,1,Randall Fisher
+122,IND200 Helmet,Helmet L4,1,Plexiglass,5,Plexiglass x5,1,Randall Fisher
+122,IND200 Helmet,Helmet L4,1,Portable Tranceiver,1,Portable Tranceiver x1,2,Randall Fisher
+123,03 Heavy Tactical Helmet,Helmet L5,1,Thermometer,3,Thermometer x3,2,Randall Fisher
+123,03 Heavy Tactical Helmet,Helmet L5,1,Insulin Pump,1,Insulin Pump x1,3,Randall Fisher
+124,T7 Thermal Imager,Thermal Imaging,1,Toolbox,3,Toolbox x3,1,Randall Fisher
+124,T7 Thermal Imager,Thermal Imaging,1,Safety Hammer,3,Safety Hammer x3,1,Randall Fisher
+124,T7 Thermal Imager,Thermal Imaging,1,TI Module,1,TI Module x1,4,Randall Fisher
+125,IND401 Body Armor,Thermal Imaging,1,Pliers,3,Pliers x3,1,Randall Fisher
+125,IND401 Body Armor,Body Armor L4,1,Portable Tranceiver,2,Portable Tranceiver x2,2,Randall Fisher
+126,BT6 Heavy Body Armor,Body Armor L4,1,Kamona Bird Plush,2,Kamona Bird Plush x2,2,Randall Fisher
+126,BT6 Heavy Body Armor,Body Armor L5,1,Decorative Cane,1,Decorative Cane x1,3,Randall Fisher
+126,BT6 Heavy Body Armor,Body Armor L5,1,Artillery Periscope Binoculars,4,Artillery Periscope Binoculars x4,2,Randall Fisher
+127,6B5 Armored Rig,Armored Rig L3,1,Hose,1,Hose x1,1,Randall Fisher
+127,6B5 Armored Rig,Armored Rig L3,1,Filter Canister,2,Filter Canister x2,1,Randall Fisher
+128,Sentry 305 Armored Chest Rig,Armored Rig L4,1,Impact-Resistant Hard Rubber,1,Impact-Resistant Hard Rubber x1,2,Randall Fisher
+128,Sentry 305 Armored Chest Rig,Armored Rig L4,1,Chemical Fiber,3,Chemical Fiber x3,1,Randall Fisher
+129,TM1 Armored Rig,Armored Rig L4,1,Propane Tank,2,Propane Tank x2,2,Randall Fisher
+129,TM1 Armored Rig,Armored Rig L4,1,Hardcover,1,Hardcover x1,1,Randall Fisher
+130,Commaner A Tactical Headset,Headset,1,Writing Pad,2,Writing Pad x2,1,Randall Fisher
+130,Commaner A Tactical Headset,Headset,1,Capacitors,2,Capacitors x2,1,Randall Fisher
+131,Lightweight Tactical Vertical Front Grip,Grip,1,Shampoo,3,Shampoo x3,1,Randall Fisher
+131,Lightweight Tactical Vertical Front Grip,Grip,1,Air Tightness Tester,1,Air Tightness Tester x1,2,Randall Fisher
+132,AR Compact Tactical Front Grip,Grip,1,DVD,1,DVD x1,1,Randall Fisher
+132,AR Compact Tactical Front Grip,Grip,1,Fuse,3,Fuse x3,1,Randall Fisher
+133,P90 Conventional Suppressor,Muzzle,1,Reader,2,Reader x2,1,Randall Fisher
+133,P90 Conventional Suppressor,Muzzle,1,Lens,1,Lens x1,2,Randall Fisher
+134,Multipurpose Laser,Laser,1,Military Canteen,2,Military Canteen x2,1,Randall Fisher
+134,Multipurpose Laser,Laser,1,Lens,3,Lens x3,2,Randall Fisher
+135,Green laser,Laser,1,Wrench,3,Wrench x3,1,Randall Fisher
+135,Green laser,Laser,1,Multimeter,4,Multimeter x4,1,Randall Fisher
+136,Industrial AR Rear Grip,Grip,1,Flashlight,1,Flashlight x1,1,Randall Fisher
+136,Industrial AR Rear Grip,Grip,1,Shampoo,1,Shampoo x1,1,Randall Fisher
+137,FAL Special Stock,Stock,1,Pager,2,Pager x2,1,Randall Fisher
+137,FAL Special Stock,Stock,1,Broken Phone,2,Broken Phone x2,1,Randall Fisher
+138,FAL Triangle Stock,Stock,1,Cable,2,Cable x2,1,Randall Fisher
+138,FAL Triangle Stock,Stock,1,Procesor,1,Procesor x1,2,Randall Fisher
+139,FAL Perforated Front Handguard,Handguard,1,Lamp,1,Lamp x1,1,Randall Fisher
+139,FAL Perforated Front Handguard,Handguard,1,UV Lamp,1,UV Lamp x1,1,Randall Fisher
+140,P90 Special Handguard,Handguard,1,Scissors,4,Scissors x4,1,Randall Fisher
+140,P90 Special Handguard,Handguard,1,Analyzer,1,Analyzer x1,2,Randall Fisher
+141,FAL Sight Mount Receiver Cover,Receiver,1,Coffee,2,Coffee x2,1,Randall Fisher
+141,FAL Sight Mount Receiver Cover,Receiver,1,Cup,1,Cup x1,1,Randall Fisher
+142,M110 Extended Barrel,Barrel,1,ES Lamp,2,ES Lamp x2,1,Randall Fisher
+142,M110 Extended Barrel,Barrel,1,Nebulizer,1,Nebulizer x1,1,Randall Fisher

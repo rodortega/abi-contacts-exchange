@@ -1,0 +1,2763 @@
+[
+    {
+        "equipment": "T85 Standard",
+        "contacts": [
+            {
+                "name": "Joel",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Cotton Cloth",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Safety Cloth",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "MAC-10 Standard",
+        "contacts": [
+            {
+                "name": "Joel",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Battery",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Classic Radio",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "S12K Standard",
+        "contacts": [
+            {
+                "name": "Joel",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "ES Lamp",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Military Compass",
+                        "quantity": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "T951",
+        "contacts": [
+            {
+                "name": "Joel",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Working LCD",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Silver Chain",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": ".45 Caliber AP Ammo",
+        "contacts": [
+            {
+                "name": "Joel",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Enamel Cup",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Shaver",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "5.8x42mm DBP87 Ammo",
+        "contacts": [
+            {
+                "name": "Joel",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Light Bulb",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Disinfectant",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Simple Red Dot Sight",
+        "contacts": [
+            {
+                "name": "Joel",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Playing Card",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Kamona Bird Plush",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "MP-133 710mm Barrel",
+        "contacts": [
+            {
+                "name": "Joel",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Soap",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Enamel Cup",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "926 Rapid First Aid Kit",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Soap",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "NaCL",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "E3 Military Medkit",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Medical Sponge",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "H202",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "100D Battlefield Medkit",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Toothpaste",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Syringe",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Energy Drink",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Toothpaste",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "NaCL",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Liquid Painkiller",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Toothpaste",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Medical Sponge",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Fast-acting Painkiller",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Urea",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "BP Machine",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AP Painkiller",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Medical Sponge",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "UV Lamp",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Standard Military Surgical Kit",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Syringe",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Medical Scissors",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Endurance Injection",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Soap",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "H202",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Str. Injection",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Syringe",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Toothpaste",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Regen Injection",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Bleach",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Glucose Injection",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "House Key",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Lighter",
+                        "quantity": 4
+                    },
+                    {
+                        "item": "Metal Lighter",
+                        "quantity": 4
+                    },
+                    {
+                        "item": "Awl",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Blue Gunpowder",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Soap",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Toothpaste",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Clog Remover",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Green Gunpowder",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Blue Gunpowder",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Glucose Injection",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Standard First Aid Kit",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "NaCL",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "H202",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Medical Item Case",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Medical Sponge",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Medical Scissors",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Toolkit",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Screwdriver",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Pliers",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Shears",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "MP Tools",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Mobile Phone",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "MP Tools",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Broken Phone",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Phone Battery",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Red Gunpowder",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Green Gunpowder",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Drug Nebulizer",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Glucose Injection",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Medical Sponge",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "NaCL",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Propane Tank",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Kerosene Lamp",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Filter Canister",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Pressure Gauge",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Thermometer",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Syringe",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Medical Item Case",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Disinfectant",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Working LCD",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Broken LCD",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Security Camera",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Fuel Tank",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Oil Drum",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Electric Drill",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Titanium Alloy Plate",
+        "contacts": [
+            {
+                "name": "Evita",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Propane Tank",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Steel Pipe",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "SH18 Military Helmet",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "DVD",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Fuse",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "SH40 Military Helmet",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Capacitors",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Mobile Phone",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "H-Tac SWAT Body Armor",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "WPR Tape",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "T-Shaped Plug",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "D-size Battery",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "6B13 Body Armor",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Tweed",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Camping Stove",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "926 Composite Body Armor",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Antenna",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Semiconductor Chip",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "RAP Simple Chest Rig",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Pliers",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Document",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "B4 Tactical Chest Rig",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Broken LCD",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "ES Lamp",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Sports Backpack",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Clog Remover",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Disinfectant",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Canvas Camping Backpack",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Bolts",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Plexiglass",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Outdoor Travel Backpack",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Surface Cleaner",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Linen",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Rush Tactical Backpack",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Rubber Pad",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "BP Machine",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Cowhide Backpack",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Lighter",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Classic Radio",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Large Camping Backpack",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Stamp",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Powerbank",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Med Field Backpack",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Pipe Wrench",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Document",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Retro Marchin Backpack",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Wind-up Car",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Paracord",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Chapman Military Backpack",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Military Canteen",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Rangefinder Binoculars",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "XA4 Tactical Backpack",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Battery",
+                        "quantity": 4
+                    },
+                    {
+                        "item": "Bag of Fertilizer",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AMP7 Assault Backpack",
+        "contacts": [
+            {
+                "name": "Deke",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Oil Drum",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Bag of Cement",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Disinfectant",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Mosin-Nagant Standard",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Bolts",
+                        "quantity": 6
+                    },
+                    {
+                        "item": "Paracord",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AKM Standard",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Glue",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Broken Phone",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AK-102 Standard",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Silicone Tube",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Broken LCD",
+                        "quantity": 4
+                    },
+                    {
+                        "item": "Magnet",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AK-74N Standard",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Silicone Tube",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Urea",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Shampoo",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "ACE31 Standard",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Handheld Fill Light",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Oil Bottle",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "SVDS Standard",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Propane Tank",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "GPU",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "VSS Standard",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Electric Drill",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Camera",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "RPK-16 Standard",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Spark Plug",
+                        "quantity": 4
+                    },
+                    {
+                        "item": "Camping Stove",
+                        "quantity": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AEK Standard",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Sound-Muffling Cotton",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Floppy Drive",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AKM Series 50-Round Compatible Drum",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Playing Card",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Document",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "7.62x39mm PS Ammo",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Lighter",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Rectifier",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "5.45x39mm PP Ammo",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Blue Gunpowder",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Power Cord",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "7.62x54mm T46M",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Magnet",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "CPU Fan",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Mosin Bolt-Action Rifle Suppressor",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Static Tape",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Watch",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "46 Multi-Caliber Suppressor",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Playing Card",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Broken Phone",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AKM Precision Flash Suppressor",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Power Cord",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Cable",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AK Series FAB Buttstock",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Canteen",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "ES Lamp",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Type 81 Stock",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Screwdriver",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Classic Radio",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Mosin Sight Extension Rail",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Metal Lighter",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Battery",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AK-Series CAA Polymer Front Handguard",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Nut",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Receiver",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AK Quick-mod Handguard",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Green Gunpowder",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Medical Item Case",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AK Custom Rail Dust Cover",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Power Cord",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Tape",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AK Compatible Rail In-Line Dust Cover",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Lighter",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AK Compatible Rail In-LIne Dust Cover",
+        "contacts": [
+            {
+                "name": "Vladlen",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Enamel Cup",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "MP5 Standard",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Weapon Parts",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Screwdriver",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Mini14 Standard",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Flashlight",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Canteen",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "M16 Standard",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Gimbal",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Shutter Cable",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "G18C Standard",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Silver Badge",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Paracord",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "MP9 Standard",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Powerbank",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Blower",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "M4A1 Standard",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Impact-Resistant Hard Rubber",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Cassette Walkman",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "SCAR-L Standard",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Gold-rimmed Glasses",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "SSD",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "MPX Standard",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Toolkit",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Hardcover",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "SJ16",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Bulletproof Gel",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "PSU",
+                        "quantity": 5
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Desert Eagle Pistol Standard",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Tape",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "WPR Tape",
+                        "quantity": 4
+                    },
+                    {
+                        "item": "Pencil Sharpener",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "F2000",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "PSU",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Floppy Disk",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Multimeter",
+                        "quantity": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "MP5 50-Round Magazine",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Powerbank",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "MPX 41-Round Extended Magazine",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Bolts",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Notebook",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "MPX 50-Round Polymer Drum",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Camping Lantern",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "DVD",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "SJ16 5-Round Magazine",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "T-Shaped Plug",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Pipe Wrench",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Universal AR 60-Round Polymer Drum",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Commemorative Coin",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Toolkit",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "G Series Pistol 33-Round Extended Mag",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Bleach",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Circuit Board",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "5.56x45mm M855 Ammo",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Blue Gunpowder",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Bolts",
+                        "quantity": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "9x1mm AP6.3 Ammo",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Power Cord",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Brass Pipe",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "3.5x Scope",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Rangefinder Binoculars",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Pliers",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "5.56x45 Suppressor",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Game Cartridge",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Rust Remover",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "MP5 Tactical Stock",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Notebook",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Photo Frame",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AR Recoil Buffer",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "High Power Flashlight",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Filter Canister",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "2.5\" Modular Lock Rail",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Nut",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Tape",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "2\" Modular Lock Rail",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Awl",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Toothpaste",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "4.1\" Modular Lock Rail",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Metal Lighter",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AR Special Universal Handguard",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "MP Tools",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Signal Jammer",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AR-series Carbine Handguard",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Pliers",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Security Camera",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "MP5SD Polymer Handguard",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Awl",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Gas Analyzer",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "MPX 10.5\" Modular Locking Handguard",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Writing Pad",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Signal Jammer",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "MPX 14\" Modular Locking Handguard",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Canteen",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Pocket Watch",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "MP5 High-Performance SD Upper Receiver",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Notebook",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Fuse",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "MPX Standard Barrel",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "H202",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "BP Machine",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "MPX Extended Barrel",
+        "contacts": [
+            {
+                "name": "Thomas Edward",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Cable",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Wind-up Car",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "BM59",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Power Cable",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "High Power Flashlight",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "M14 Standard",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Nut",
+                        "quantity": 4
+                    },
+                    {
+                        "item": "Receiver",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "FAL Standard",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Gold-rimmed Glasses",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Document",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "M110 Standard",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Bag of Cement",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Air Tightness Tester",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "M24 Standard",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Retro Heat Sink",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Pipe Cleaning Kit",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "P90 Standard",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Titanium Alloy Plate",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Mobile Phone",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AR57",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Oil Drum",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Hearing Aid",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "BM59 10-round Magazine",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Candle",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Measuring Tape",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "M110 20-rounnd Quick Magazine",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Shears",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Linen",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "P90 30-round Polymer Magazine",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Shears",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "BP Machine",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "FAL 50-round Drum",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Candle",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Kamona Bird Plush",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "7.62x51mm BPZ Ammo",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Light Bulb",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Rectifier",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "5.7x28mm SS197SR Ammo",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "House",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Stamp",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "IND200 Helmet",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Plexiglass",
+                        "quantity": 5
+                    },
+                    {
+                        "item": "Portable Tranceiver",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "03 Heavy Tactical Helmet",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Thermometer",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Insulin Pump",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "T7 Thermal Imager",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Toolbox",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Safety Hammer",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "TI Module",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "IND401 Body Armor",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Pliers",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Portable Tranceiver",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "BT6 Heavy Body Armor",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Kamona Bird Plush",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Decorative Cane",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Artillery Periscope Binoculars",
+                        "quantity": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "6B5 Armored Rig",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Hose",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Filter Canister",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Sentry 305 Armored Chest Rig",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Impact-Resistant Hard Rubber",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Chemical Fiber",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "TM1 Armored Rig",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Propane Tank",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Hardcover",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Commaner A Tactical Headset",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Writing Pad",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Capacitors",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Lightweight Tactical Vertical Front Grip",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Shampoo",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Air Tightness Tester",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "AR Compact Tactical Front Grip",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "DVD",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Fuse",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "P90 Conventional Suppressor",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Reader",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Lens",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Multipurpose Laser",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Military Canteen",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Lens",
+                        "quantity": 3
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Green laser",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Wrench",
+                        "quantity": 3
+                    },
+                    {
+                        "item": "Multimeter",
+                        "quantity": 4
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "Industrial AR Rear Grip",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Flashlight",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "Shampoo",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "FAL Special Stock",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Pager",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Broken Phone",
+                        "quantity": 2
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "FAL Triangle Stock",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Cable",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Procesor",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "FAL Perforated Front Handguard",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Lamp",
+                        "quantity": 1
+                    },
+                    {
+                        "item": "UV Lamp",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "P90 Special Handguard",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Scissors",
+                        "quantity": 4
+                    },
+                    {
+                        "item": "Analyzer",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "FAL Sight Mount Receiver Cover",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "Coffee",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Cup",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "equipment": "M110 Extended Barrel",
+        "contacts": [
+            {
+                "name": "Randall Fisher",
+                "quantity": 1,
+                "requirements": [
+                    {
+                        "item": "ES Lamp",
+                        "quantity": 2
+                    },
+                    {
+                        "item": "Nebulizer",
+                        "quantity": 1
+                    }
+                ]
+            }
+        ]
+    }
+]
