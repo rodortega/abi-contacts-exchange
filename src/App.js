@@ -64,7 +64,7 @@ function App() {
                         type="text"
                         value={equipmentInput}
                         onChange={(e) => setEquipmentInput(e.target.value)}
-                        placeholder="Enter equipment (e.g., Grenade)"
+                        placeholder="Enter equipment (e.g., Ammo)"
                         className="w-full p-3 border rounded mb-4"
                     />
                     <button
