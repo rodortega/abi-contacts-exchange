@@ -36,6 +36,7 @@ function App() {
             )
             .map((equipmentItem) => ({
                 equipment: equipmentItem.equipment,
+                type: equipmentItem.type,
                 contacts: equipmentItem.contacts.filter((contact) =>
                     contact.requirements.some((req) =>
                         req.item.toLowerCase().includes(lowerInput)
@@ -52,11 +53,14 @@ function App() {
         setRequirementInput("");
 
         const result = master
-            .filter((equipmentItem) =>
-                equipmentItem.equipment.toLowerCase().includes(lowerInput)
+            .filter(
+                (equipmentItem) =>
+                    equipmentItem.equipment.toLowerCase().includes(lowerInput) ||
+                    equipmentItem.type.toLowerCase().includes(lowerInput)
             )
             .map((equipmentItem) => ({
                 equipment: equipmentItem.equipment,
+                type: equipmentItem.type,
                 contacts: equipmentItem.contacts,
             }));
 
@@ -123,12 +127,18 @@ function App() {
                             key={index}
                             className="bg-gray-700 p-6 shadow-md rounded-lg"
                         >
-                            <h3 className="text-xl font-bold text-black text-white">
+                            <h3 className="text-xl font-bold text-black text-white mb-1">
                                 {result.equipment}
                             </h3>
+                            <span
+                                className="px-2 py-1 rounded-lg text-xs font-semibold text-white bg-orange-800"
+                            >
+                                {result.type}
+                            </span>
+
                             <div className="mt-4 grid grid-cols-1 gap-6">
                                 {result.contacts.map((contact, idx) => (
-                                    <div key={idx} className="p-4 rounded-lg text-white">
+                                    <div key={idx} className="rounded-lg text-white">
                                         <p className="font-semibold">
                                             Contact: {contact.name}
                                         </p>
@@ -144,10 +154,9 @@ function App() {
                                                     (req, reqIdx) => (
                                                         <li
                                                             key={reqIdx}
-                                                            className="text-white"
+                                                            className="text-white list-none mb-2"
                                                         >
-                                                            {req.item}:{" "}
-                                                            {req.quantity}
+                                                            <b>{req.quantity} </b> x {req.item}
                                                         </li>
                                                     )
                                                 )}

@@ -1,6 +1,7 @@
 [
     {
         "equipment": "T85 Standard",
+        "type": "Micro SMG",
         "contacts": [
             {
                 "name": "Joel",
@@ -20,6 +21,7 @@
     },
     {
         "equipment": "MAC-10 Standard",
+        "type": "Micro SMG",
         "contacts": [
             {
                 "name": "Joel",
@@ -39,6 +41,7 @@
     },
     {
         "equipment": "S12K Standard",
+        "type": "Shotgun",
         "contacts": [
             {
                 "name": "Joel",
@@ -58,6 +61,7 @@
     },
     {
         "equipment": "T951",
+        "type": "Assault Rifle",
         "contacts": [
             {
                 "name": "Joel",
@@ -77,6 +81,7 @@
     },
     {
         "equipment": ".45 Caliber AP Ammo",
+        "type": "Ammo L3",
         "contacts": [
             {
                 "name": "Joel",
@@ -96,6 +101,7 @@
     },
     {
         "equipment": "5.8x42mm DBP87 Ammo",
+        "type": "Ammo L3",
         "contacts": [
             {
                 "name": "Joel",
@@ -115,6 +121,7 @@
     },
     {
         "equipment": "Simple Red Dot Sight",
+        "type": "Attachment",
         "contacts": [
             {
                 "name": "Joel",
@@ -134,6 +141,7 @@
     },
     {
         "equipment": "MP-133 710mm Barrel",
+        "type": "Attachment",
         "contacts": [
             {
                 "name": "Joel",
@@ -153,6 +161,7 @@
     },
     {
         "equipment": "926 Rapid First Aid Kit",
+        "type": "Medkit",
         "contacts": [
             {
                 "name": "Evita",
@@ -172,6 +181,7 @@
     },
     {
         "equipment": "E3 Military Medkit",
+        "type": "Medkit",
         "contacts": [
             {
                 "name": "Evita",
@@ -191,6 +201,7 @@
     },
     {
         "equipment": "100D Battlefield Medkit",
+        "type": "Medkit",
         "contacts": [
             {
                 "name": "Evita",
@@ -210,6 +221,7 @@
     },
     {
         "equipment": "Energy Drink",
+        "type": "Medicine",
         "contacts": [
             {
                 "name": "Evita",
@@ -229,6 +241,7 @@
     },
     {
         "equipment": "Liquid Painkiller",
+        "type": "Medicine",
         "contacts": [
             {
                 "name": "Evita",
@@ -248,6 +261,7 @@
     },
     {
         "equipment": "Fast-acting Painkiller",
+        "type": "Medicine",
         "contacts": [
             {
                 "name": "Evita",
@@ -267,6 +281,7 @@
     },
     {
         "equipment": "AP Painkiller",
+        "type": "Medicine",
         "contacts": [
             {
                 "name": "Evita",
@@ -286,6 +301,7 @@
     },
     {
         "equipment": "Standard Military Surgical Kit",
+        "type": "Treatment",
         "contacts": [
             {
                 "name": "Evita",
@@ -305,6 +321,7 @@
     },
     {
         "equipment": "Endurance Injection",
+        "type": "Stimulants",
         "contacts": [
             {
                 "name": "Evita",
@@ -324,6 +341,7 @@
     },
     {
         "equipment": "Str. Injection",
+        "type": "Stimulants",
         "contacts": [
             {
                 "name": "Evita",
@@ -343,6 +361,7 @@
     },
     {
         "equipment": "Regen Injection",
+        "type": "Stimulants",
         "contacts": [
             {
                 "name": "Evita",
@@ -362,6 +381,7 @@
     },
     {
         "equipment": "House Key",
+        "type": "The Farm Keys",
         "contacts": [
             {
                 "name": "Evita",
@@ -385,6 +405,7 @@
     },
     {
         "equipment": "Blue Gunpowder",
+        "type": "Flammables",
         "contacts": [
             {
                 "name": "Evita",
@@ -408,6 +429,7 @@
     },
     {
         "equipment": "Green Gunpowder",
+        "type": "Flammables",
         "contacts": [
             {
                 "name": "Evita",
@@ -423,6 +445,7 @@
     },
     {
         "equipment": "Glucose Injection",
+        "type": "Medical Items",
         "contacts": [
             {
                 "name": "Evita",
@@ -446,6 +469,7 @@
     },
     {
         "equipment": "Medical Item Case",
+        "type": "Medical Items",
         "contacts": [
             {
                 "name": "Evita",
@@ -465,6 +489,7 @@
     },
     {
         "equipment": "Toolkit",
+        "type": "Tools",
         "contacts": [
             {
                 "name": "Evita",
@@ -492,6 +517,7 @@
     },
     {
         "equipment": "Mobile Phone",
+        "type": "Electronics",
         "contacts": [
             {
                 "name": "Evita",
@@ -515,6 +541,7 @@
     },
     {
         "equipment": "Red Gunpowder",
+        "type": "Flammables",
         "contacts": [
             {
                 "name": "Evita",
@@ -530,6 +557,7 @@
     },
     {
         "equipment": "Drug Nebulizer",
+        "type": "Medical Items",
         "contacts": [
             {
                 "name": "Evita",
@@ -553,6 +581,7 @@
     },
     {
         "equipment": "Propane Tank",
+        "type": "Flammables",
         "contacts": [
             {
                 "name": "Evita",
@@ -576,6 +605,7 @@
     },
     {
         "equipment": "Thermometer",
+        "type": "Medical Items",
         "contacts": [
             {
                 "name": "Evita",
@@ -599,6 +629,7 @@
     },
     {
         "equipment": "Working LCD",
+        "type": "Computer Parts",
         "contacts": [
             {
                 "name": "Evita",
@@ -618,6 +649,7 @@
     },
     {
         "equipment": "Fuel Tank",
+        "type": "Flammables",
         "contacts": [
             {
                 "name": "Evita",
@@ -637,6 +669,7 @@
     },
     {
         "equipment": "Titanium Alloy Plate",
+        "type": "Building Materials",
         "contacts": [
             {
                 "name": "Evita",
@@ -656,6 +689,7 @@
     },
     {
         "equipment": "SH18 Military Helmet",
+        "type": "Helmet L4",
         "contacts": [
             {
                 "name": "Deke",
@@ -675,6 +709,7 @@
     },
     {
         "equipment": "SH40 Military Helmet",
+        "type": "Helmet L4",
         "contacts": [
             {
                 "name": "Deke",
@@ -694,6 +729,7 @@
     },
     {
         "equipment": "H-Tac SWAT Body Armor",
+        "type": "Body Armor L3",
         "contacts": [
             {
                 "name": "Deke",
@@ -717,6 +753,7 @@
     },
     {
         "equipment": "6B13 Body Armor",
+        "type": "Body Armor L4",
         "contacts": [
             {
                 "name": "Deke",
@@ -736,6 +773,7 @@
     },
     {
         "equipment": "926 Composite Body Armor",
+        "type": "Body Armor L5",
         "contacts": [
             {
                 "name": "Deke",
@@ -755,6 +793,7 @@
     },
     {
         "equipment": "RAP Simple Chest Rig",
+        "type": "Unarmored Chest Rig",
         "contacts": [
             {
                 "name": "Deke",
@@ -774,6 +813,7 @@
     },
     {
         "equipment": "B4 Tactical Chest Rig",
+        "type": "Unarmored Chest Rig",
         "contacts": [
             {
                 "name": "Deke",
@@ -793,6 +833,7 @@
     },
     {
         "equipment": "Sports Backpack",
+        "type": "Backpack",
         "contacts": [
             {
                 "name": "Deke",
@@ -812,6 +853,7 @@
     },
     {
         "equipment": "Canvas Camping Backpack",
+        "type": "Backpack",
         "contacts": [
             {
                 "name": "Deke",
@@ -831,6 +873,7 @@
     },
     {
         "equipment": "Outdoor Travel Backpack",
+        "type": "Backpack",
         "contacts": [
             {
                 "name": "Deke",
@@ -850,6 +893,7 @@
     },
     {
         "equipment": "Rush Tactical Backpack",
+        "type": "Backpack",
         "contacts": [
             {
                 "name": "Deke",
@@ -869,6 +913,7 @@
     },
     {
         "equipment": "Cowhide Backpack",
+        "type": "Backpack",
         "contacts": [
             {
                 "name": "Deke",
@@ -888,6 +933,7 @@
     },
     {
         "equipment": "Large Camping Backpack",
+        "type": "Backpack",
         "contacts": [
             {
                 "name": "Deke",
@@ -907,6 +953,7 @@
     },
     {
         "equipment": "Med Field Backpack",
+        "type": "Backpack",
         "contacts": [
             {
                 "name": "Deke",
@@ -926,6 +973,7 @@
     },
     {
         "equipment": "Retro Marchin Backpack",
+        "type": "Backpack",
         "contacts": [
             {
                 "name": "Deke",
@@ -945,6 +993,7 @@
     },
     {
         "equipment": "Chapman Military Backpack",
+        "type": "Backpack",
         "contacts": [
             {
                 "name": "Deke",
@@ -964,6 +1013,7 @@
     },
     {
         "equipment": "XA4 Tactical Backpack",
+        "type": "Backpack",
         "contacts": [
             {
                 "name": "Deke",
@@ -983,6 +1033,7 @@
     },
     {
         "equipment": "AMP7 Assault Backpack",
+        "type": "Backpack",
         "contacts": [
             {
                 "name": "Deke",
@@ -1006,6 +1057,7 @@
     },
     {
         "equipment": "Mosin-Nagant Standard",
+        "type": "Bolt-Action Rifle",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1025,6 +1077,7 @@
     },
     {
         "equipment": "AKM Standard",
+        "type": "Assault Rifle",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1044,6 +1097,7 @@
     },
     {
         "equipment": "AK-102 Standard",
+        "type": "Assault Rifle",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1067,6 +1121,7 @@
     },
     {
         "equipment": "AK-74N Standard",
+        "type": "Assault Rifle",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1090,6 +1145,7 @@
     },
     {
         "equipment": "ACE31 Standard",
+        "type": "Assault Rifle",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1109,6 +1165,7 @@
     },
     {
         "equipment": "SVDS Standard",
+        "type": "Marksman Rifle",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1128,6 +1185,7 @@
     },
     {
         "equipment": "VSS Standard",
+        "type": "Marksman Rifle",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1147,6 +1205,7 @@
     },
     {
         "equipment": "RPK-16 Standard",
+        "type": "Light Machine Gun",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1166,6 +1225,7 @@
     },
     {
         "equipment": "AEK Standard",
+        "type": "Assault Rifle",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1185,6 +1245,7 @@
     },
     {
         "equipment": "AKM Series 50-Round Compatible Drum",
+        "type": "Magazine",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1204,6 +1265,7 @@
     },
     {
         "equipment": "7.62x39mm PS Ammo",
+        "type": "Ammo L3",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1223,6 +1285,7 @@
     },
     {
         "equipment": "5.45x39mm PP Ammo",
+        "type": "Ammo L3",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1242,6 +1305,7 @@
     },
     {
         "equipment": "7.62x54mm T46M",
+        "type": "Ammo L3",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1261,6 +1325,7 @@
     },
     {
         "equipment": "Mosin Bolt-Action Rifle Suppressor",
+        "type": "Muzzle",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1280,6 +1345,7 @@
     },
     {
         "equipment": "46 Multi-Caliber Suppressor",
+        "type": "Muzzle",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1299,6 +1365,7 @@
     },
     {
         "equipment": "AKM Precision Flash Suppressor",
+        "type": "Muzzle",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1318,6 +1385,7 @@
     },
     {
         "equipment": "AK Series FAB Buttstock",
+        "type": "Stock",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1337,6 +1405,7 @@
     },
     {
         "equipment": "Type 81 Stock",
+        "type": "Stock",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1356,6 +1425,7 @@
     },
     {
         "equipment": "Mosin Sight Extension Rail",
+        "type": "Rail",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1375,6 +1445,7 @@
     },
     {
         "equipment": "AK-Series CAA Polymer Front Handguard",
+        "type": "Handguard",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1394,6 +1465,7 @@
     },
     {
         "equipment": "AK Quick-mod Handguard",
+        "type": "Handguard",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1413,6 +1485,7 @@
     },
     {
         "equipment": "AK Custom Rail Dust Cover",
+        "type": "Receiver",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1432,6 +1505,7 @@
     },
     {
         "equipment": "AK Compatible Rail In-Line Dust Cover",
+        "type": "Receiver",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1447,6 +1521,7 @@
     },
     {
         "equipment": "AK Compatible Rail In-LIne Dust Cover",
+        "type": "Receiver",
         "contacts": [
             {
                 "name": "Vladlen",
@@ -1462,6 +1537,7 @@
     },
     {
         "equipment": "MP5 Standard",
+        "type": "Micro SMG",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1481,6 +1557,7 @@
     },
     {
         "equipment": "Mini14 Standard",
+        "type": "Carbine",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1500,6 +1577,7 @@
     },
     {
         "equipment": "M16 Standard",
+        "type": "Carbine",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1519,6 +1597,7 @@
     },
     {
         "equipment": "G18C Standard",
+        "type": "Pistol",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1538,6 +1617,7 @@
     },
     {
         "equipment": "MP9 Standard",
+        "type": "Micro SMG",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1557,6 +1637,7 @@
     },
     {
         "equipment": "M4A1 Standard",
+        "type": "Assault Rifle",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1576,6 +1657,7 @@
     },
     {
         "equipment": "SCAR-L Standard",
+        "type": "Assault Rifle",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1595,6 +1677,7 @@
     },
     {
         "equipment": "MPX Standard",
+        "type": "Micro SMG",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1614,6 +1697,7 @@
     },
     {
         "equipment": "SJ16",
+        "type": "Bolt-Action Rifle",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1633,6 +1717,7 @@
     },
     {
         "equipment": "Desert Eagle Pistol Standard",
+        "type": "Pistol",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1656,6 +1741,7 @@
     },
     {
         "equipment": "F2000",
+        "type": "Assault Rifle",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1679,6 +1765,7 @@
     },
     {
         "equipment": "MP5 50-Round Magazine",
+        "type": "Magazine",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1694,6 +1781,7 @@
     },
     {
         "equipment": "MPX 41-Round Extended Magazine",
+        "type": "Magazine",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1713,6 +1801,7 @@
     },
     {
         "equipment": "MPX 50-Round Polymer Drum",
+        "type": "Magazine",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1732,6 +1821,7 @@
     },
     {
         "equipment": "SJ16 5-Round Magazine",
+        "type": "Magazine",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1751,6 +1841,7 @@
     },
     {
         "equipment": "Universal AR 60-Round Polymer Drum",
+        "type": "Magazine",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1770,6 +1861,7 @@
     },
     {
         "equipment": "G Series Pistol 33-Round Extended Mag",
+        "type": "Magazine",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1789,6 +1881,7 @@
     },
     {
         "equipment": "5.56x45mm M855 Ammo",
+        "type": "Ammo L3",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1808,6 +1901,7 @@
     },
     {
         "equipment": "9x1mm AP6.3 Ammo",
+        "type": "Ammo L3",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1827,6 +1921,7 @@
     },
     {
         "equipment": "3.5x Scope",
+        "type": "Sights",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1846,6 +1941,7 @@
     },
     {
         "equipment": "5.56x45 Suppressor",
+        "type": "Muzzle",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1865,6 +1961,7 @@
     },
     {
         "equipment": "MP5 Tactical Stock",
+        "type": "Stock",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1884,6 +1981,7 @@
     },
     {
         "equipment": "AR Recoil Buffer",
+        "type": "Stock",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1903,6 +2001,7 @@
     },
     {
         "equipment": "2.5\" Modular Lock Rail",
+        "type": "Rail",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1922,6 +2021,7 @@
     },
     {
         "equipment": "2\" Modular Lock Rail",
+        "type": "Rail",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1941,6 +2041,7 @@
     },
     {
         "equipment": "4.1\" Modular Lock Rail",
+        "type": "Rail",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1956,6 +2057,7 @@
     },
     {
         "equipment": "AR Special Universal Handguard",
+        "type": "Handguard",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1975,6 +2077,7 @@
     },
     {
         "equipment": "AR-series Carbine Handguard",
+        "type": "Handguard",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -1994,6 +2097,7 @@
     },
     {
         "equipment": "MP5SD Polymer Handguard",
+        "type": "Handguard",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -2013,6 +2117,7 @@
     },
     {
         "equipment": "MPX 10.5\" Modular Locking Handguard",
+        "type": "Handguard",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -2032,6 +2137,7 @@
     },
     {
         "equipment": "MPX 14\" Modular Locking Handguard",
+        "type": "Handguard",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -2051,6 +2157,7 @@
     },
     {
         "equipment": "MP5 High-Performance SD Upper Receiver",
+        "type": "Receiver",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -2070,6 +2177,7 @@
     },
     {
         "equipment": "MPX Standard Barrel",
+        "type": "Barrel",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -2089,6 +2197,7 @@
     },
     {
         "equipment": "MPX Extended Barrel",
+        "type": "Barrel",
         "contacts": [
             {
                 "name": "Thomas Edward",
@@ -2108,6 +2217,7 @@
     },
     {
         "equipment": "BM59",
+        "type": "Carbine",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2127,6 +2237,7 @@
     },
     {
         "equipment": "M14 Standard",
+        "type": "Carbine",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2146,6 +2257,7 @@
     },
     {
         "equipment": "FAL Standard",
+        "type": "Assault Rifle",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2165,6 +2277,7 @@
     },
     {
         "equipment": "M110 Standard",
+        "type": "Marksman Rifle",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2184,6 +2297,7 @@
     },
     {
         "equipment": "M24 Standard",
+        "type": "Bolt-Action Rifle",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2203,6 +2317,7 @@
     },
     {
         "equipment": "P90 Standard",
+        "type": "Micro SMG",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2222,6 +2337,7 @@
     },
     {
         "equipment": "AR57",
+        "type": "Assault Rifle",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2241,6 +2357,7 @@
     },
     {
         "equipment": "BM59 10-round Magazine",
+        "type": "Magazine",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2260,6 +2377,7 @@
     },
     {
         "equipment": "M110 20-rounnd Quick Magazine",
+        "type": "Magazine",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2279,6 +2397,7 @@
     },
     {
         "equipment": "P90 30-round Polymer Magazine",
+        "type": "Magazine",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2298,6 +2417,7 @@
     },
     {
         "equipment": "FAL 50-round Drum",
+        "type": "Magazine",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2317,6 +2437,7 @@
     },
     {
         "equipment": "7.62x51mm BPZ Ammo",
+        "type": "Ammo L3",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2336,6 +2457,7 @@
     },
     {
         "equipment": "5.7x28mm SS197SR Ammo",
+        "type": "Ammo L2",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2355,6 +2477,7 @@
     },
     {
         "equipment": "IND200 Helmet",
+        "type": "Helmet L4",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2374,6 +2497,7 @@
     },
     {
         "equipment": "03 Heavy Tactical Helmet",
+        "type": "Helmet L5",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2393,6 +2517,7 @@
     },
     {
         "equipment": "T7 Thermal Imager",
+        "type": "Thermal Imaging",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2416,6 +2541,7 @@
     },
     {
         "equipment": "IND401 Body Armor",
+        "type": "Body Armor L4",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2435,6 +2561,7 @@
     },
     {
         "equipment": "BT6 Heavy Body Armor",
+        "type": "Body Armor L5",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2458,6 +2585,7 @@
     },
     {
         "equipment": "6B5 Armored Rig",
+        "type": "Armored Rig L3",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2477,6 +2605,7 @@
     },
     {
         "equipment": "Sentry 305 Armored Chest Rig",
+        "type": "Armored Rig L4",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2496,6 +2625,7 @@
     },
     {
         "equipment": "TM1 Armored Rig",
+        "type": "Armored Rig L4",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2515,6 +2645,7 @@
     },
     {
         "equipment": "Commaner A Tactical Headset",
+        "type": "Headset",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2534,6 +2665,7 @@
     },
     {
         "equipment": "Lightweight Tactical Vertical Front Grip",
+        "type": "Grip",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2553,6 +2685,7 @@
     },
     {
         "equipment": "AR Compact Tactical Front Grip",
+        "type": "Grip",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2572,6 +2705,7 @@
     },
     {
         "equipment": "P90 Conventional Suppressor",
+        "type": "Muzzle",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2591,6 +2725,7 @@
     },
     {
         "equipment": "Multipurpose Laser",
+        "type": "Laser",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2610,6 +2745,7 @@
     },
     {
         "equipment": "Green laser",
+        "type": "Laser",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2629,6 +2765,7 @@
     },
     {
         "equipment": "Industrial AR Rear Grip",
+        "type": "Grip",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2648,6 +2785,7 @@
     },
     {
         "equipment": "FAL Special Stock",
+        "type": "Stock",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2667,6 +2805,7 @@
     },
     {
         "equipment": "FAL Triangle Stock",
+        "type": "Stock",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2686,6 +2825,7 @@
     },
     {
         "equipment": "FAL Perforated Front Handguard",
+        "type": "Handguard",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2705,6 +2845,7 @@
     },
     {
         "equipment": "P90 Special Handguard",
+        "type": "Handguard",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2724,6 +2865,7 @@
     },
     {
         "equipment": "FAL Sight Mount Receiver Cover",
+        "type": "Receiver",
         "contacts": [
             {
                 "name": "Randall Fisher",
@@ -2743,6 +2885,7 @@
     },
     {
         "equipment": "M110 Extended Barrel",
+        "type": "Barrel",
         "contacts": [
             {
                 "name": "Randall Fisher",

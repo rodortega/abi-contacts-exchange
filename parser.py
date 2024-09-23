@@ -2,9 +2,15 @@ import csv
 import json
 from collections import defaultdict
 
+import csv
+from collections import defaultdict
+
 def parse_csv_to_json(csv_file):
-    equipment_data = defaultdict(lambda: defaultdict(list))
-    
+    equipment_data = defaultdict(lambda: defaultdict(lambda: {
+        "type": None,
+        "requirements": []
+    }))
+
     with open(csv_file, newline='') as file:
         reader = csv.reader(file)
 
@@ -13,29 +19,33 @@ def parse_csv_to_json(csv_file):
 
         for row in reader:
             equipment_name = row[1]
+            equipment_type = row[2]
             contact_name = row[8]
             item_name = row[4]
             item_quantity = int(row[5])
             equipment_quantity = int(row[3])
-            
-            # Group by equipment and contact
-            equipment_data[equipment_name][contact_name].append({
+
+            # Store equipment type and item requirements
+            equipment_data[equipment_name][contact_name]["type"] = equipment_type
+            equipment_data[equipment_name][contact_name]["requirements"].append({
                 "item": item_name,
                 "quantity": item_quantity
             })
-    
+
     json_output = []
     for equipment, contacts in equipment_data.items():
         contacts_list = []
-        for contact, requirements in contacts.items():
+        for contact, details in contacts.items():
             contacts_list.append({
                 "name": contact,
-                "quantity": equipment_quantity,
-                "requirements": requirements
+                "quantity": equipment_quantity,  # Quantity for each contact
+                "requirements": details["requirements"]
             })
-        
+
+        # Append equipment, type, and contacts to the output
         json_output.append({
             "equipment": equipment,
+            "type": details["type"],  # Add equipment type
             "contacts": contacts_list
         })
 
