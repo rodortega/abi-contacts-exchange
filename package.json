@@ -14,7 +14,7 @@
   "homepage": "https://rodortega.github.io/abi-contacts-exchange",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d build -f",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
