@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abi-contacts-exchange/static/css/main.5f846b61.css",
+    "main.js": "/abi-contacts-exchange/static/js/main.5092d5d8.js",
+    "static/js/453.e50870f5.chunk.js": "/abi-contacts-exchange/static/js/453.e50870f5.chunk.js",
+    "index.html": "/abi-contacts-exchange/index.html",
+    "main.5f846b61.css.map": "/abi-contacts-exchange/static/css/main.5f846b61.css.map",
+    "main.5092d5d8.js.map": "/abi-contacts-exchange/static/js/main.5092d5d8.js.map",
+    "453.e50870f5.chunk.js.map": "/abi-contacts-exchange/static/js/453.e50870f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f846b61.css",
+    "static/js/main.5092d5d8.js"
+  ]
+}
