@@ -59,7 +59,7 @@ function App() {
 
             <div className="container mx-auto flex flex-col lg:flex-row gap-8 justify-center items-start">
                 {/* Left side: Search by equipment */}
-                <div className="w-full lg:w-1/2 bg-white bg-gray-700 p-6 shadow-md rounded-lg">
+                <div className="w-full lg:w-1/2 bg-gray-700 p-6 shadow-md rounded-lg">
                     <h2 className="text-xl font-semibold mb-4">
                         Search for Items Needed for Equipment
                     </h2>
@@ -68,7 +68,7 @@ function App() {
                         value={equipmentInput}
                         onChange={(e) => setEquipmentInput(e.target.value)}
                         placeholder="Enter equipment (e.g., Ammo)"
-                        className="w-full p-3 border rounded mb-4 bg-white bg-gray-600 text-black text-white"
+                        className="w-full p-3 border rounded mb-4 bg-gray-600 text-white"
                     />
                     <button
                         onClick={handleEquipmentSearch}
@@ -79,7 +79,7 @@ function App() {
                 </div>
 
                 {/* Right side: Search by requirement */}
-                <div className="w-full lg:w-1/2 bg-white bg-gray-700 p-6 shadow-md rounded-lg">
+                <div className="w-full lg:w-1/2 bg-gray-700 p-6 shadow-md rounded-lg">
                     <h2 className="text-xl font-semibold mb-4">
                         Search for Equipment Needing this Item
                     </h2>
@@ -88,7 +88,7 @@ function App() {
                         value={requirementInput}
                         onChange={(e) => setRequirementInput(e.target.value)}
                         placeholder="Enter item (e.g., battery)"
-                        className="w-full p-3 border rounded mb-4 bg-white bg-gray-600 text-black text-white"
+                        className="w-full p-3 border rounded mb-4 bg-gray-600 text-white"
                     />
                     <button
                         onClick={handleRequirementSearch}
@@ -105,7 +105,7 @@ function App() {
                     results.map((result, index) => (
                         <div
                             key={index}
-                            className="bg-white bg-gray-700 p-6 shadow-md rounded-lg"
+                            className="bg-gray-700 p-6 shadow-md rounded-lg"
                         >
                             <h3 className="text-xl font-bold text-black text-white">
                                 {result.equipment}
